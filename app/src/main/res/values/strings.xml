@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="article_title">Battles Authology</string>
+    <string name="article_subtitle">Behind that locked door</string>
+    <string name="article_text">The article appears, and you can even scroll it
+        ,www.flipkart.com but the scrolling is not smooth and there is no scroll bar because you
+        haven\'t yet included a ScrollView (which you will do in the next task).
+        Note also that tapping a web link does not
+        currently do anything. You will also fix that in the next task.
+        Depending on your version of Android Studio, the activity_main.xml
+        layout file will look something like the following In the previous
+        task you created the Scrolling Text app with TextViews for an article title,
+        subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+         subtitle, and lengthy article text.
+
+
+    </string>
+</resources>
